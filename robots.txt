@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://panditankittiwari.netlify.app/sitemap.xml
